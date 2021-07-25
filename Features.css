@@ -1,0 +1,124 @@
+.u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/Koc4ggwf.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 800px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 60px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 30px 157px 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 660px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 57px;
+    margin-right: 57px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 506px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 380px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 239px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 706px;
+}
+
+.u-section-2 .u-text-1 {
+  text-transform: none;
+  letter-spacing: normal;
+  font-size: 3.75rem;
+  font-weight: 700;
+  width: 612px;
+  margin: 60px auto 0;
+}
+
+.u-section-2 .u-text-2 {
+  line-height: 2;
+  font-size: 1.5rem;
+  font-style: normal;
+  width: 612px;
+  color: rgb(17, 17, 17) !important;
+  margin: 30px auto 60px;
+}
+
+.u-section-2 .u-list-icon-1 {
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-2 .u-list-icon-2 {
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-2 .u-list-icon-3 {
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-2 .u-list-icon-4 {
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-2 .u-list-icon-5 {
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-2 .u-list-icon-6 {
+  color: rgb(17, 17, 17) !important;
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 778px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: 540px;
+  }
+
+  .u-section-2 .u-text-2 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 809px;
+  }
+
+  .u-section-2 .u-text-1 {
+    font-size: 3rem;
+    width: 340px;
+  }
+
+  .u-section-2 .u-text-2 {
+    font-size: 1.25rem;
+    width: 340px;
+  }
+}
